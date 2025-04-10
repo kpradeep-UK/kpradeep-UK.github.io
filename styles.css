@@ -49,17 +49,30 @@ a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 120px;
+  width: 100px; /* smaller than before */
+  max-width: 100%;
   transition: transform 0.3s ease-in-out;
 }
 
 .tech-logo img {
-  width: 64px;
-  height: 64px;
+  width: 100%;
+  max-width: 64px;
+  height: auto;
   object-fit: contain;
   margin-bottom: 8px;
   filter: drop-shadow(0 0 4px rgba(0, 255, 174, 0.5));
 }
+
+@media (max-width: 768px) {
+  .tech-logo {
+    width: 80px;
+  }
+
+  .tech-logo img {
+    max-width: 50px;
+  }
+}
+
 
 .tech-logo p {
   font-size: 12px;
@@ -93,9 +106,3 @@ footer {
   margin: 1rem 0;
 }
 
-@media (max-width: 768px) {
-  .tech-logo img {
-    width: 50px;
-    height: 50px;
-  }
-}
