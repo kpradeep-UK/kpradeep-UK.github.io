@@ -37,24 +37,37 @@ a:hover {
   box-shadow: 0 0 10px rgba(0,255,136,0.3);
 }
 
-.tech-scroll {
-  height: 200px;
-  overflow: hidden;
-  position: relative;
-  background: #1a1a1a;
-  border: 1px solid #00ff88;
-  box-shadow: inset 0 0 10px #00ff88;
-  margin-top: 1rem;
-  padding: 1rem;
+.tech-stack-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
 }
 
-.tech-scroll .tech-logos {
+.tech-logo {
   display: flex;
   flex-direction: column;
-  animation: scroll-up 20s linear infinite;
   align-items: center;
+  width: 120px;
+  transition: transform 0.3s ease-in-out;
 }
 
+.tech-logo img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  margin-bottom: 8px;
+  filter: drop-shadow(0 0 4px rgba(0, 255, 174, 0.5));
+}
+
+.tech-logo p {
+  font-size: 12px;
+  color: #00ffae;
+  text-align: center;
+}
+
+/* Remove this if not using tech-scroll effect */
 .tech-scroll img {
   width: 60px;
   margin: 1rem 0;
@@ -75,7 +88,8 @@ a:hover {
   }
 }
 
-.footer {
+/* Use footer without class or match HTML */
+footer {
   text-align: center;
   color: #666;
   font-size: 0.9rem;
@@ -91,10 +105,8 @@ a:hover {
 }
 
 @media (max-width: 768px) {
-  .tech-scroll {
-    height: 150px;
-  }
-  .tech-scroll img {
+  .tech-logo img {
     width: 50px;
+    height: 50px;
   }
 }
