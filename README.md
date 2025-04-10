@@ -2,7 +2,7 @@
 **Security Analyst | Digital Forensics & VAPT Specialist**  
 📍 Puducherry, India  
 📞 +91 9087887001 | 📧 [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/pradeepkumark2701/]) |  
+🔗 [https://www.linkedin.com/in/pradeepkumark2701/] |  
 
 ---
 
