@@ -1,8 +1,8 @@
 # Pradeep Kumar K  
-**Security Analyst | Digital Forensics & VAPT Specialist**  
+**Security Analyst | Digital Forensics Expert | Web & Mobile VAPT Specialist**  
 📍 Puducherry, India  
 📞 +91 9087887001 | 📧 [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
-🔗 [https://www.linkedin.com/in/pradeepkumark2701/] |  
+🔗 [https://www.linkedin.com/in/pradeepkumark2701/] 
 
 ---
 
@@ -11,6 +11,8 @@ I am a detail-oriented **Security Analyst** with expertise in **Digital Forensic
 
 I have collaborated with law enforcement agencies such as DRI, IT, and Customs, providing critical support in legal investigations through data aggregation and analysis. My passion lies in solving complex cybersecurity challenges and maintaining the highest standards of security and integrity.  
 
+---
+**Tech Stack**: Kali Linux, Burp Suite, Android Studio, VS Code, Postman, Wireshark, Metasploit Framework
 ---
 
 ## Skills  
@@ -89,7 +91,9 @@ I have collaborated with law enforcement agencies such as DRI, IT, and Customs, 
 ## Contact Me  
 📧 **Email**: [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
 📞 **Phone**: +91 9087887001  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/pradeepkumark2701/](#)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/pradeepkumark2701/]  
+🌐 **TryHackMe**: [https://tryhackme.com/p/D4rk9t4r3n6X]
+    **Github**: [https://github.com/kpradeep-UK]
 🌐 **Portfolio**: [Your Portfolio Website](#)  
 
 ---
