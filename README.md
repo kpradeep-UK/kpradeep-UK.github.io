@@ -2,7 +2,7 @@
 **Security Analyst | Digital Forensics & VAPT Specialist**  
 📍 Puducherry, India  
 📞 +91 9087887001 | 📧 [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/pradeep-kumar-k-5440a7222/) |  
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/pradeepkumark2701/]) |  
 
 ---
 
@@ -89,7 +89,7 @@ I have collaborated with law enforcement agencies such as DRI, IT, and Customs, 
 ## Contact Me  
 📧 **Email**: [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
 📞 **Phone**: +91 9087887001  
-🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/pradeepkumark2701/](#)  
 🌐 **Portfolio**: [Your Portfolio Website](#)  
 
 ---
