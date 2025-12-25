@@ -27,16 +27,10 @@ I have collaborated with law enforcement agencies such as DRI, IT, and Customs, 
 ## Professional Experience  
 
 ### **Cyber Security Analyst**  
-**CYBERSEC** | Gurugram, India | *Sep 2024 – Present*  
+**CYBERSEC** | Gurugram, India | *Sep 2024 – Sep 2025*  
 - Conduct **Vulnerability Assessment and Penetration Testing (VAPT)** on web and mobile applications using tools like Burp Suite, Nessus, and Metasploit.  
 - Analyze mobile applications for security vulnerabilities using Android Studio, JADX, and APKTool.  
 - Collaborate with cross-functional teams to implement security best practices and mitigate risks.  
-
-### **Cybersecurity Intern**  
-**CFSS Cyber & Forensics Security Solutions** | Puducherry, India | *Aug 2024 – Sep 2024*  
-- Performed **digital forensic analysis** on devices to extract and analyze critical data.  
-- Contributed to **incident response planning** and developed strategies for handling security breaches.  
-- Assisted in creating forensic reports for legal and investigative purposes.  
 
 ### **Digital Forensics Intern**  
 **Divsight Intelligence Pvt. Ltd.** | Mumbai, India | *Dec 2023 – Jun 2024*  
@@ -48,7 +42,7 @@ I have collaborated with law enforcement agencies such as DRI, IT, and Customs, 
 
 ## Education  
 - **M.Sc in Information Security and Cyber Forensics**  
-  *University of Madras* | *Sep 2024 – Present*  
+  *University of Madras* | *Aug 2024 – Present*  
 
 - **B.Sc in Information Security and Digital Forensics**  
   *Karunya Institute of Technology and Sciences* | *May 2021 – May 2024*  
@@ -89,8 +83,7 @@ I have collaborated with law enforcement agencies such as DRI, IT, and Customs, 
 ---
 
 ## Contact Me  
-📧 **Email**: [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
-📞 **Phone**: +91 9087887001  
+📧 **Email**: [pentsecure.in@gmail.com](mailto:pentsecure.in@gmail.com)    
 🔗 **LinkedIn**: [https://www.linkedin.com/in/pradeepkumark2701/]  
 🌐 **TryHackMe**: [https://tryhackme.com/p/D4rk9t4r3n6X]
     **Github**: [https://github.com/kpradeep-UK]
