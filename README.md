@@ -1,7 +1,7 @@
 # Pradeep Kumar K  
 **Security Analyst | Digital Forensics Expert | Web & Mobile VAPT Specialist**  
 📍 Puducherry, India  
-📞 +91 9087887001 | 📧 [pradeepkumarb2003@gmail.com](mailto:pradeepkumarb2003@gmail.com)  
+📧 [pentsecure.in@gmail.com](mailto:pentsecure.in@gmail.com) 
 🔗 [https://www.linkedin.com/in/pradeepkumark2701/] 
 
 ---
