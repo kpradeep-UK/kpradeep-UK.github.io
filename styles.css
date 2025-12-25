@@ -1,108 +1,84 @@
-/* Dark Hacker-Style Portfolio CSS */
-
 body {
   margin: 0;
-  font-family: 'Courier New', Courier, monospace;
-  background-color: #0f0f0f;
-  color: #e0e0e0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #ffffff;
+  color: #1a1a1a;
+  line-height: 1.7;
 }
 
-h1, h2, h3, h4, h5 {
-  color: #00ff88;
-  text-shadow: 0 0 10px #00ff88;
-}
-
-a {
-  color: #00bfff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #00ffaa;
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  text-align: center;
 }
 
 .container {
-  padding: 2rem;
-  max-width: 1000px;
-  margin: auto;
+  max-width: 900px;
+  padding: 20px;
+}
+
+.subtitle {
+  opacity: 0.9;
+  margin-bottom: 25px;
+}
+
+.links a {
+  margin: 8px;
+  padding: 12px 18px;
+  background: #00c896;
+  color: #000;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
 }
 
 .section {
-  margin-bottom: 2rem;
-  border-left: 3px solid #00ff88;
-  padding-left: 1rem;
-  background: rgba(255, 255, 255, 0.03);
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,255,136,0.3);
+  padding: 80px 15%;
 }
 
-.tech-stack-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.section.gray {
+  background: #f5f7fa;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
-  padding: 10px;
 }
 
-.tech-logo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100px; /* smaller than before */
-  max-width: 100%;
-  transition: transform 0.3s ease-in-out;
+.grid div {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
 }
 
-.tech-logo img {
-  width: 100%;
-  max-width: 64px;
-  height: auto;
-  object-fit: contain;
-  margin-bottom: 8px;
-  filter: drop-shadow(0 0 4px rgba(0, 255, 174, 0.5));
+.card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
 }
 
-@media (max-width: 768px) {
-  .tech-logo {
-    width: 80px;
-  }
-
-  .tech-logo img {
-    max-width: 50px;
-  }
-}
-
-
-.tech-logo p {
-  font-size: 12px;
-  color: #00ffae;
-  text-align: center;
-}
-
-
-@keyframes scroll-up {
-  0% {
-    transform: translateY(100%);
-  }
-  100% {
-    transform: translateY(-100%);
-  }
-}
-
-/* Use footer without class or match HTML */
 footer {
   text-align: center;
-  color: #666;
-  font-size: 0.9rem;
-  margin-top: 2rem;
+  padding: 30px;
+  background: #111;
+  color: #ccc;
 }
 
-.neon-border {
-  border: 2px solid #00ffaa;
-  box-shadow: 0 0 10px #00ffaa;
-  padding: 10px;
-  border-radius: 5px;
-  margin: 1rem 0;
+/* Animations */
+.fade {
+  opacity: 0;
+  transform: translateY(20px);
 }
-
